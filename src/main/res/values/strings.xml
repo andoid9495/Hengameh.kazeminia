@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kazemi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_setting"></string>
+    <string name="activity_two">Activity two</string>
+    <string name="external_url">External URL</string>
+    <string name="send_message">Send Message</string>
+
+</resources>
